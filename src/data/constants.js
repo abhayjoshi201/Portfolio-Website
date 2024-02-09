@@ -12,7 +12,7 @@ export const Bio = {
     " A Computer Science Engineering Student from Dehradun with rapid learning abilities, adept implementation skills, and a talent for clear explanations.",
   github: "https://github.com/abhayjoshi201",
   resume:
-    "https://drive.google.com/file/d/1XXSpZ295xS3tFSt77IjAqLlwNUL1p_0P/view?usp=sharing ",
+    "https://drive.google.com/file/d/12e9xjrfAiSV_ANGPhVultcMa_AAaxDTP/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/abhay-joshi-/",
   twitter: "https://twitter.com/abhayjoshi1104",
   insta: "https://www.instagram.com/abhhayyyyyyy",
