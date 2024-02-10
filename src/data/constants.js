@@ -305,18 +305,7 @@ export const projects = [
     github: "https://github.com/abhayjoshi201/NewsApp",
     webapp: "https://github.com/abhayjoshi201/NewsApp",
   },
-  {
-    id: 9,
-    title: "Detectify",
-    //date: "Jun 2023 - Jul 2023",
-    description:
-      "Android Application for Image & Text Detection & Sound Recognition.Integrated real-time image classification, audio processing & text analysis offering instant feedback using Machine Learning models. Used Google CodeLabs for making Machine Learning Models",
-    image: "./images/2.png",
-    tags: ["Java ", "TensorFlow Lite", "Machine Learning"],
-    category: "machine learning",
-    github: "https://github.com/abhayjoshi201/ML-app",
-    webapp: "https://github.com/abhayjoshi201/ML-app",
-  },
+  
   {
     id: 0,
     title: "DevBhoomi Tourism Website",
@@ -401,6 +390,19 @@ export const projects = [
         github: "https://github.com/abhayjoshi201",
       },
     ],
+    
+  },
+  {
+    id: 9,
+    title: "Detectify",
+    //date: "Jun 2023 - Jul 2023",
+    description:
+      "Android Application for Image & Text Detection & Sound Recognition.Integrated real-time image classification, audio processing & text analysis offering instant feedback using Machine Learning models. Used Google CodeLabs for making Machine Learning Models",
+    image: "./images/2.png",
+    tags: ["Java ", "TensorFlow Lite", "Machine Learning"],
+    category: "machine learning",
+    github: "https://github.com/abhayjoshi201/ML-app",
+    webapp: "https://github.com/abhayjoshi201/ML-app",
   },
 ];
 
